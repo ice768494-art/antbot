@@ -1,13 +1,13 @@
 [
 {
 "session": "antbot",
-"token": "YOUR_BOT_TOKEN",
-"api_id": "YOUR_API_ID",
-"api_hash": "YOUR_API_HASH",
+"token": "8630606263:AAHHjDBlDE4oXhfufXs5E3nYMHkznXl3vQ8",
+"api_id": "34955554",
+"api_hash": "756f6e123be64a56de1b136ae7e55150",
 "workers": 8,
 
 "db": {},
-"db_uri": "YOUR_MONGODB_CONNECTION_STRING",
+"db_uri": "mongodb+srv://ice768494_db_user:2jlxViI8JsNLAjqn@cluster0.oazx7v2.mongodb.net/?appName=Cluster0",
 "db_name": "antbot",
 
 "fsubs": [
