@@ -1,37 +1,39 @@
 [
-    {
-        "session": "ses",
-        "token": "",
-        "api_id": "",
-        "api_hash": "",
-        "workers": 8,
-        "db_uri": "",
-        "db_name": "",
-        "fsubs": [[-1002942915805,true,0],[-1003923093207,true,0],[-1003596036486,true,0],[-1002949974097,true,0]],
-        "db": ,
-        "auto_del": 600,
-        "messages": {
-            "START": "<blockquote expandable> Hi Friends I Am an Advance File Store bot of @AnimeNetworkTamil</blockquote>",
-            "FSUB": "You Need To Join This Channels to Get Files",
-            "ABOUT": "ABOUT MSG",
-            "REPLY": "You are not my admin ",
-            "START_PHOTO": "",
-            "FSUB_PHOTO": ""
-        },
-        "admins": [],
-        "disable_btn": true,
-        "protect": false
-    }
+{
+"session": "antbot",
+"token": "YOUR_BOT_TOKEN",
+"api_id": "YOUR_API_ID",
+"api_hash": "YOUR_API_HASH",
+"workers": 8,
 
+"db": {},
+"db_uri": "YOUR_MONGODB_CONNECTION_STRING",
+"db_name": "antbot",
+
+"fsubs": [
+  [-1002942915805, true, 0],
+  [-1003923093207, true, 0],
+  [-1003596036486, true, 0],
+  [-1002949974097, true, 0]
+],
+
+"auto_del": 600,
+
+"messages": {
+  "START": "<blockquote expandable>Hi Friends I Am an Advance File Store bot of @AnimeNetworkTamil</blockquote>",
+  "FSUB": "You Need To Join This Channels to Get Files",
+  "ABOUT": "ABOUT MSG",
+  "REPLY": "You are not my admin",
+  "START_PHOTO": "",
+  "FSUB_PHOTO": ""
+},
+
+"admins": [
+  123456789
+],
+
+"disable_btn": true,
+"protect": false
+
+}
 ]
-
-
-
-
-
-
-
-
-
-
-
