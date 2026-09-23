@@ -11,7 +11,7 @@
         "db": ,
         "auto_del": 600,
         "messages": {
-            "START": "<blockquote expandable> Hi Friends I Am an Advance File Store bot of @anime_warrior_tamil</blockquote>",
+            "START": "<blockquote expandable> Hi Friends I Am an Advance File Store bot of @AnimeNetworkTamil</blockquote>",
             "FSUB": "You Need To Join This Channels to Get Files",
             "ABOUT": "ABOUT MSG",
             "REPLY": "You are not my admin ",
